@@ -15,7 +15,7 @@
 
 ## 4. Отключаем Hyper-V
 - Запускаем командную строку (cmd) от имени администратора
-- bcdedit /set hypervisorlaunchtype off
+- ```bcdedit /set hypervisorlaunchtype off```
 - Дожидаемся "Ok"
 
 ## 5. WinUtil
