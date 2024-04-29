@@ -20,7 +20,7 @@
 
 ## 5. WinUtil
 - Запускаем PowerShell от имени администратора
-- irm https://christitus.com/win | iex
+```irm https://christitus.com/win | iex```
 - При первом запуске может попросить установить Chocolatey, соглашаемся
 - После запуска WinUtil, переходим на вторую вкладку **Tweaks**
 - Выбираем в Recommended Selections либо **Desktop**, если у вас стационарный компьютер, либо **Laptop**, если у вас ноутбук
