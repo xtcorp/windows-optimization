@@ -38,3 +38,6 @@
 - Выбираем [9] Disable all Speculative Execution Protection Mitigations, написав цифру **9** и нажав Enter
 - Выбираем [1] Disable now, написав цифру **1** и нажав Enter
 - **(ВАЖНО!!)** Выбираем [1] Restart now, написав цифру **1** и нажав Enter
+
+## 8. Отключаем Bitlocker
+- Ждем 24H2 для этого пункта.
