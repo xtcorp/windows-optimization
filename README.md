@@ -4,10 +4,10 @@
 - Безопасность Windows -> Защита от вирусов и угроз -> Управление настройками
 - Отключаем все пункты
 
-## 2. DefenderControl
-- [Скачать.](https://drive.google.com/file/d/1jnxfSz1A-DH6jWUeEEZhMtLpNuUpU0h0/view?usp=drive_link) Пароль: *xtcorp*
-- Нажимаем на **Отключить Защитник Windows**
-- Дожидаемся красной плашки сверху
+## 2. Удаление Defender
+- [Скачать.](https://github.com/ionuttbara/windows-defender-remover/releases/)
+- Запускаем от имени администратора
+- Перезагружаемся
 
 ## 3. Отключаем изоляцию ядра
 - Безопасность Windows -> Безопасность устройства
