@@ -29,12 +29,5 @@
 - Панель управления -> Система и безопасность -> Параметры питания
 - Выбираем профиль **Максимальная производительность**(Ultimate Performance)
 
-## 6. Manage Speculative Execution Protection Settings
-- [Скачать.](https://drive.google.com/file/d/1m3aLZGD3cA8pgSZvvnvZ8j-see9ipDRJ/view?usp=sharing)
-- При первом запуске может попросить установить SpeculativeControl, соглашаемся, написав цифру **2** и нажав Enter
-- Выбираем [9] Disable all Speculative Execution Protection Mitigations, написав цифру **9** и нажав Enter
-- Выбираем [1] Disable now, написав цифру **1** и нажав Enter
-- **(ВАЖНО!!)** Выбираем [1] Restart now, написав цифру **1** и нажав Enter
-
-## 7. Отключаем Bitlocker
+## 6. Отключаем Bitlocker
 - Если у вас компьютер Copilot+ сертификации, то не забудьте проверить Bitlocker и отключить его на всех дисках.
