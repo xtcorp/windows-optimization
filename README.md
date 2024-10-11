@@ -21,7 +21,7 @@
 - При первом запуске может попросить установить Chocolatey, соглашаемся
 - После запуска WinUtil, переходим на вторую вкладку **Tweaks**
 - Выбираем в **Standard**
-- Нажимаем **Run Tweaks** и смотри в окно PowerShell, иногда нажимая Enter внутри него, так как может застрять
+- Нажимаем **Run Tweaks** и смотрим в окно PowerShell, иногда нажимая Enter внутри него, так как может застрять
 - Дожидаемся "Tweaks Are Finished"
 - На этой же странице нажимаем **Add and Activate Ultimate Performance Profile**
 
