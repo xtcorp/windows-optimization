@@ -9,7 +9,7 @@
 - ```bcdedit /set hypervisorlaunchtype off```
 - Дожидаемся "Ok"
 
-## 3. Удаляем Защитник
+## 3. Удаляем Защитник + Mitigations
 - [Скачать.](https://github.com/ionuttbara/windows-defender-remover/releases/)
 - Запускаем от имени администратора
 - Выбираем первый пункт, нажимая Y
