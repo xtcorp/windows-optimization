@@ -20,7 +20,7 @@
 - ```irm https://christitus.com/win | iex```
 - При первом запуске может попросить установить Chocolatey, соглашаемся
 - После запуска WinUtil, переходим на вторую вкладку **Tweaks**
-- Выбираем в **Standard**
+- Выбираем **Standard**
 - Нажимаем **Run Tweaks** и смотрим в окно PowerShell, иногда нажимая Enter внутри него, так как может застрять
 - Дожидаемся "Tweaks Are Finished"
 - На этой же странице нажимаем **Add and Activate Ultimate Performance Profile**
