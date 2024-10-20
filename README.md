@@ -10,7 +10,7 @@
 - Дожидаемся "Ok"
 
 ## 3. Удаляем Защитник + Mitigations
-- [Скачать.](https://github.com/ionuttbara/windows-defender-remover/releases/)
+- [Скачать .exe](https://github.com/ionuttbara/windows-defender-remover/releases/)
 - Запускаем от имени администратора
 - Выбираем первый пункт, нажимая Y
 - Ждем и программа сама поставит вас на перезагрузку
