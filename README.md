@@ -32,6 +32,6 @@
 ## 6. Отключаем Bitlocker
 - Если у вас компьютер Copilot+ сертификации или же если винда устанавливалась с TPM и SecureBoot, то не забудьте проверить Bitlocker и отключить его на всех дисках.
 
-## 6. Бустим проводник/Отключаем Automatic Folder Type Discovery
+## 7. Бустим проводник/Отключаем Automatic Folder Type Discovery
 - [Скачать .reg](https://github.com/xtcorp/windows-optimization/blob/main/images/Disable-Automatic-Folder-Discovery.reg)
 - Применить.
